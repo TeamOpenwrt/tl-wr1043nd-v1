@@ -1,0 +1,4 @@
+
+CONFIG_TARGET_ath79=y
+CONFIG_TARGET_ath79_generic=y
+CONFIG_TARGET_ath79_generic_DEVICE_tl-wr1043nd-v1=y
